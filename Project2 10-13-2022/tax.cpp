@@ -18,6 +18,7 @@ int main()
 
 	cout << "Taxable income: "; //ask user for their income
 	double income;
+
 	cin >> income;
 	cin.ignore(10000, '\n');
 	if (income < 0) //check to see if they provided a negative income, and exit if they do.
