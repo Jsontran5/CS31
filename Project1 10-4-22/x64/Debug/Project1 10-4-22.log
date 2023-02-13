@@ -1,0 +1,4 @@
+﻿  compile_error.cpp
+E:\CS31\Project1 10-4-22\compile_error.cpp(13,2): error C2146: syntax error: missing ';' before identifier 'cout'
+  original.cpp
+  Generating Code...
